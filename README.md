@@ -16,7 +16,7 @@ git clone https://github.com/prafulbowade73-netizen/python-project.git
 cd python-project
 
 # Run the program
-python Bank.py==============================
+python Bank.py=========
    Welcome to Praful's Bank
 ==============================
 1. Check Balance
